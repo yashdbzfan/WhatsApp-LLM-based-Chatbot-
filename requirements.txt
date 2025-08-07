@@ -1,0 +1,11 @@
+openai
+flask
+twilio
+transformers
+requests
+groq
+pandas
+numpy
+torch
+tensorFlow
+tf-keras
